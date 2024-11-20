@@ -8,3 +8,12 @@ body {
     font-size: 100%;
     margin-left: 10px;
 }
+a:focus, a:hover {
+        font-style: italic;
+}
+/* styles for the header */
+header h2 {
+        font-size: 130%;
+        font-style: italic;
+        text-indent: 30px;
+}
