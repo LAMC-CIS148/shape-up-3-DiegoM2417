@@ -1,0 +1,10 @@
+/* custom property */
+:root {
+        --global-color-1: #80000;
+}
+/* the styles for the elements */
+body {
+        font-family:sans-serif;
+    font-size: 100%;
+    margin-left: 10px;
+}
