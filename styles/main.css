@@ -1,6 +1,19 @@
 body {
         font-family: sans-serif;
 }
+a{
+        font-weight: bold;
+}
+header img{
+        float: left;
+}
+header h2{
+        font-size: 250%;
+        font-style: italics;
+        color: steelblue;
+        text-indent: 45px;
+        text-shadow: 3px 3px 3px steelblue;
+}
 h1 {
         font-size: 3em;
 }
