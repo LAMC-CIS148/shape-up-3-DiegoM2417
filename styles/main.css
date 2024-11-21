@@ -22,6 +22,15 @@ h3 {
         a: link {
                 color: steelblue;
         }
+        a:hover, a: focus {
+                color: steelblue
+        }
+        main p:first-child {
+                font-weight: bold;
+        }
+        main p:first-child: :first-letter {
+                font-size: 150%
+        }
 aside a {
         font-weight: bold;
         color: steelblue;
