@@ -21,11 +21,10 @@ header h3{
 
 /* Style for the section */
 section h1 {
-        font-size: 150%;
+        font-size: 160%;
 }
 section h2 {
         
-       
         font-size: 130%;
 }
 section h3{
@@ -39,32 +38,17 @@ section a {
         color: maroon;
         text-decoration: none;
 }
-section a:hover, section a: focus {
-        color: steelblue:
-}
-
-        a: link {
-                color: steelblue;
+section a:link, section a: visited {
+        color: maroon;
         }
-        a:hover, a: focus {
-                color: steelblue
-        }
-        main p:first-child {
-                font-weight: bold;
-        }
-        main p:first-child: :first-letter {
-                font-size: 150%
-        }
-
-
-        aside a {
-        font-weight: bold;
+section a:hover,section a: focus{
         color: steelblue;
-        text-decoration: none;
-}
-        aside a:hover, aside a:focus {
-                color: maroon;
-        }
+}        
+        
+
+
+
+     
         
         
         ul li {
