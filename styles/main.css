@@ -14,6 +14,9 @@ section a {
 section a:hover, section a: focus {
         color: steelblue:
 }
+h3 {
+        color:maroon;
+}
 aside a {
         font-weight: bold;
         color: steelblue;
