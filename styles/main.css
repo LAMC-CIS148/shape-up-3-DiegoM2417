@@ -47,7 +47,20 @@ section a:hover,section a: focus{
         
 
 /* The style for the side bar*/
+aside h2{
+        font-size: 130%;
+}
+aside ul{
+        line-height:1.5;
+}
+aside a:link, aside a:visited{
+        color:steelblue;
+}
+aside a:hover, aside a: focus{
+        color: maroon;
+}
 
+/* Style for the Footer*/
         footer {
                 font-size: 0.8em;
                 text-align: center;
