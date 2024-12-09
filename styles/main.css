@@ -1,11 +1,16 @@
 body {
         font-family: sans-serif;
+        width: 900px;
+        border: 3px steelblue;
+        black-shadow: black;
+        text-align: center;
 }
 a{
         font-weight: bold;
 }
 header img{
         float: left;
+        border-bottom: steelblue;
 }
 header h2{
         font-size: 250%;
@@ -58,6 +63,9 @@ aside a:link, aside a:visited{
 }
 aside a:hover, aside a: focus{
         color: maroon;
+}
+footer {
+        background-color: steelblue;
 }
 
 /* Style for the Footer*/
